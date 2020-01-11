@@ -6,6 +6,7 @@
  */
 #pragma once
 
+#define STATUS_SCREEN_X 96
 #define STATUS_LOGO_WIDTH 32
 
 const unsigned char status_logo_bmp[] PROGMEM = {
