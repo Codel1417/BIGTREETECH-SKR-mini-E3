@@ -2520,7 +2520,7 @@
  *
  * Execute certain G-code commands immediately after power-on.
  */
-#define STARTUP_COMMANDS "G28\nG27 P1\nM18"
+//#define STARTUP_COMMANDS "G28\nG27 P1\nM18"
 
 /**
  * G-code Macros
